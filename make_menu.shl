@@ -1,0 +1,2 @@
+gcc menu.c -o men -lcurses -g -O0
+#gcc menu_64.c -o men -lcurses
